@@ -42,7 +42,7 @@ in short, termux and it's addon are shared user application that's why termux ca
 here android policy is that , shared user application must have same signature,and you know that different app store use different keystore and signature.
 
 
-
+**Let's join disscussion on [Telegram](https://t.me/joinchat/LksyyhqH8BLILApMBRLdpA)**
 
 
 
