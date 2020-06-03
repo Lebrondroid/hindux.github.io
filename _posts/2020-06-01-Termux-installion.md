@@ -71,7 +71,7 @@ we will discuss about  navigation in our next tutorial. Stay tuned.
 
 **If you have any issues or question, please join our termux community on [telegram](https://t.me/joinchat/LksyyhqH8BLILApMBRLdpA)**
 
-
+**©kcubeterm**
 
 
 
